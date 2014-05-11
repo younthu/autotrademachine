@@ -1,9 +1,9 @@
 # Site settings
-title: 量化交易机
+title: "量化交易机"
 email: younthu@gmail.com
-description: “量化交易相关的资料和文章分享”
-baseurl: “/“
-url: "http://blog.autotrademachine.com”
+description: "量化交易相关的资料和文章分享"
+baseurl: "/"
+url: "http://blog.autotrademachine.com"
 
 # Build settings
 markdown: kramdown
